@@ -15,3 +15,6 @@
 
 ### You can see my work here https://github.com/BakariDatiashvii
 
+#### I am student. I know html css javascript and c++.
+
+#### I know English B1.
